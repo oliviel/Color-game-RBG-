@@ -1,3 +1,3 @@
-# Color-game-RBG-
+# Color gamee RBG
 
 This is a the ultimate RBG guessing game. If you area a pro in RGB play the game and you will see... 
